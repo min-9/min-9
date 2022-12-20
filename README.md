@@ -5,7 +5,7 @@
 <a href="https://www.instagram.com/minsphere/"><img src="https://img.shields.io/badge/minsphere-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=mg07315@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-I'm studying in <b>Meteor Code Club</b> now.
+I'm studying in `Meteor Code Club` now.
 
 <br />
 
