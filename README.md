@@ -14,7 +14,7 @@ I'm studying in `Meteor Code Club` now.
         <tr>
             <th>Position</th>
             <th>Language</th>
-            <th>Library / Framework</th>
+            <th>Frameworks & Library</th>
         </tr>
     </thead>
     <tbody align="center">
@@ -22,7 +22,7 @@ I'm studying in `Meteor Code Club` now.
             <td>Front-End</td>
             <td rowspan=3>
                 <a href="#">
-                    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+                    <img src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
                 </a>
                 <br />
                 <a href="#">
@@ -31,13 +31,13 @@ I'm studying in `Meteor Code Club` now.
             </td>
             <td>
                 <a href="#">
-                    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+                    <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
                 </a> <a href="#">
-                <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+                <img src="https://img.shields.io/badge/vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
                 </a> <a href="#">
-                <img src="https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white">
+                <img src="https://img.shields.io/badge/tailwind_css-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
                 </a> <a href="#">
-                <img src="https://img.shields.io/badge/material ui-007FFF?style=for-the-badge&logo=mui&logoColor=white">
+                <img src="https://img.shields.io/badge/material_ui-007FFF?style=for-the-badge&logo=mui&logoColor=white">
                 </a>
             </td>
         </tr>
@@ -66,7 +66,7 @@ I'm studying in `Meteor Code Club` now.
         <tr>
             <td rowspan=2>App Develop</td>
             <td>
-                <a href="#"><img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
+                <a href="#"><img src="https://img.shields.io/badge/kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
             </td>
             <td rowspan=2>
                 <a href="#"><img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
@@ -94,7 +94,7 @@ I'm studying in `Meteor Code Club` now.
         </tr>
         <tr>
             <td>Editor</td>
-            <td><a href="#"><img src="https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></a></td>
+            <td><a href="#"><img src="https://img.shields.io/badge/vscode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></a></td>
         </tr>
     </tbody>
 </table>
