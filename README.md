@@ -14,7 +14,6 @@ I'm studying in `Meteor Code Club` now.
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwindcss)](https://skillicons.dev)
 
 ### Back-End
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
@@ -22,6 +21,12 @@ I'm studying in `Meteor Code Club` now.
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=express,apollo,graphql,flask)](https://skillicons.dev)
+
+### UI / Design
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwindcss)](https://skillicons.dev)
+
+### Editor
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 ### Database
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
