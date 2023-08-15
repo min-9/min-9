@@ -2,7 +2,6 @@
 
 [skillicons](https://skillicons.dev)
 
-<a href="https://github.com/meteor-code-club"><img src="https://img.shields.io/badge/Meteor_Code_Club-DE4F4F?style=for-the-badge&logo=Meteor&logoColor=white" /></a>
 <a href="https://min-9.github.io"><img src="https://img.shields.io/badge/blog-663399?style=for-the-badge&logo=gatsby&logoColor=white" /></a>
 <a href="https://www.instagram.com/min9.exe/"><img src="https://img.shields.io/badge/min9.exe-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=mg07315@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
