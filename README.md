@@ -39,5 +39,3 @@ I'm studying in `Meteor Code Club` now.
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=min-9&layout=compact&theme=tokyonight)
-
-https://github.com/min-9/min-9/assets/34941024/72fdb5ab-fb74-4113-9be4-6156b1f63c7e
