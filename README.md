@@ -1,11 +1,9 @@
-## Hi there 👋
-
-[skillicons](https://skillicons.dev)
+### Hello world! 👋  
+저는 프론트엔드 개발을 공부하고 있는 학생입니다.  
+주로 JavaScript와 React를 활용한 프로젝트를 진행하고 있으며, 웹 접근성과 성능 최적화에 관심이 많습니다.
 
 <a href="https://www.instagram.com/min9.exe/"><img src="https://img.shields.io/badge/min9.exe-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=mg07315@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-I'm studying about JavaScript
 
 ## Development Stacks
 
@@ -13,14 +11,6 @@ I'm studying about JavaScript
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts&perline=2)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue)](https://skillicons.dev)
-
-
-### Back-End
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=express,apollo,graphql,flask)](https://skillicons.dev)
 
 ### UI / Design
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwindcss)](https://skillicons.dev)
