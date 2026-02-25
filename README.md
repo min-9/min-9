@@ -1,3 +1,5 @@
+[![Mingu's solved ac stats](https://solvedac-readme-stats.vercel.app/api?handle=mg07315)](https://github.com/kookjd7759/solvedac-readme-stats)
+
 ## Hello world! 👋  
 저는 프론트엔드 개발을 공부하고 있는 학생입니다.  
 주로 JavaScript와 React를 활용한 프로젝트를 진행하고 있으며, 웹 접근성과 성능 최적화에 관심이 많습니다.
