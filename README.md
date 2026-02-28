@@ -1,31 +1,51 @@
-[![Mingu's solved ac stats](https://solvedac-readme-stats.vercel.app/api?handle=mg07315)](https://github.com/kookjd7759/solvedac-readme-stats)
+## Mingu
 
-## Hello world! 👋  
-저는 프론트엔드 개발을 공부하고 있는 학생입니다.  
-주로 JavaScript와 React를 활용한 프로젝트를 진행하고 있으며, 웹 접근성과 성능 최적화에 관심이 많습니다.
+Neuroengineering & Brain–Computer Interface Researcher  
+Ph.D. Student in Human–Computer Interaction
 
-<a href="https://www.instagram.com/min9.exe/"><img src="https://img.shields.io/badge/min9.exe-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=mg07315@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+B.S. in Computer Science, 2025  
+Ph.D. in HCI, 2026–Present  
 
-## Development Stacks
+---
 
-### Front-End
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts&perline=2)](https://skillicons.dev)
+I research neural signal processing and brain–computer interfaces,
+focusing on how neural data can shape adaptive and scalable interactive systems.
 
+With a background in frontend system architecture,
+I approach interfaces as structured, performance-aware engineering systems.
+
+My interests include:
+- Neural signal–driven interaction
+- Neuroadaptive interface systems
+- Scalable UI architectures
+- Performance-aware rendering
+- Human-centered system design
+
+I treat software not only as a product, but as an experimental research platform.
+
+---
+
+## Technical Foundations
+
+### Frontend Systems
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts&perline=4)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue)](https://skillicons.dev)
 
-### UI / Design
+### Interface & Styling
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwindcss)](https://skillicons.dev)
 
-### Editor
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-
-### Database
+### Data
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
-### Versioning
-[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+### Tooling
+[![My Skills](https://skillicons.dev/icons?i=vscode,github)](https://skillicons.dev)
 
-<br />
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=min-9&layout=compact&theme=tokyonight)
+[![Mingu's solved ac stats](https://solvedac-readme-stats.vercel.app/api?handle=mg07315)](https://github.com/kookjd7759/solvedac-readme-stats)
+
+---
+
+## Contact
+<a href="https://www.instagram.com/min9.exe/"><img src="https://img.shields.io/badge/min9.exe-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:mg07315@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
