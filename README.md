@@ -1,12 +1,10 @@
 ## Introduction
 
-Ph.D. Student in Human–Computer Interaction (HCI), 
-working at the intersection of neuroengineering and brain–computer interface systems.
+Ph.D. Student in Human–Computer Interaction (HCI), working at the intersection of neuroengineering and brain–computer interface systems.
 
-My research focuses on medical artificial intelligence, deep learning, and machine learning for neural signal modeling and BCI applications. I explore data-driven approaches to build adaptive, scalable, and human-centered interactive systems.
+My research focuses on medical AI and machine learning for neural signal modeling and BCI applications. I explore data-driven approaches to design adaptive, scalable, and human-centered interactive systems.
 
-With a background in frontend system architecture, I approach AI research from a systems perspective—bridging model development, interface engineering, and real-world deployment. I view software as an experimental platform for computational and human-centered inquiry.
-
+With a background in frontend system architecture, I approach AI research from a systems perspective—bridging model development and real-world deployment.
 
 ## Research Interests
 
@@ -20,7 +18,7 @@ With a background in frontend system architecture, I approach AI research from a
 
 ## Education
 
-Ph.D. in Human–Computer Interaction (HCI)  
+Ph.D. in Human–Computer Interaction  
 Hanyang University (2026–Present)
 
 B.S. in Computer Science  
