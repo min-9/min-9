@@ -1,16 +1,13 @@
 ## Introduction
 
-Ph.D. Student in Human–Computer Interaction (HCI), working at the intersection of neuroengineering and brain–computer interface systems.
-
-My research focuses on medical AI and machine learning for neural signal modeling and BCI applications. I explore data-driven approaches to design adaptive, scalable, and human-centered interactive systems.
-
-With a background in frontend system architecture, I approach AI research from a systems perspective—bridging model development and real-world deployment.
+I am a Ph.D. student in HCI researching neuroengineering and brain–computer interface systems. 
+My research investigates medical AI and machine learning for neural signal modeling from a systems-oriented perspective.
 
 ## Research Interests
 
 - Brain–computer interface systems  
 - Neural signal modeling  
-- Medical artificial intelligence  
+- Medical AI  
 - Neuroadaptive interface architectures  
 - Scalable interactive systems  
 - Human-centered computational design
@@ -18,36 +15,22 @@ With a background in frontend system architecture, I approach AI research from a
 
 ## Education
 
-Ph.D. in Human–Computer Interaction  
-Hanyang University (2026–Present)
+Ph.D. in Human–Computer Interaction (In progress)  
+Hanyang University, 2026–Present
 
 B.S. in Computer Science  
-Hanseo University (2019–2025)
+Hanseo University, 2019–2025
 
 
 ## Technical Expertise
 
-### Machine Learning & Medical AI
-- Python
-- PyTorch, TensorFlow
-- Scikit-learn, NumPy
-- Model training and evaluation
+Machine Learning: Python, PyTorch, TensorFlow, Scikit-learn  
 
-### Neuroengineering & BCI
-- Neural signal processing
-- Brain–computer interface systems
-- Neuroadaptive modeling
+Neuroengineering: Neural signal processing, Brain–computer interface systems  
 
-### Interactive Systems
-- Frontend architecture (React, Next.js, Vue)
-- TypeScript-based development
-- Scalable UI design
+Systems & Frontend: React, Next.js, TypeScript  
 
-### Research Infrastructure
-- MySQL
-- Git, GitHub
-- Reproducible research workflows
-
+Tools: Git, MySQL
 
 ## Contact
 
