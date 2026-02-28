@@ -1,6 +1,6 @@
 ## Introduction
 
-I am a Ph.D. student in HCI researching neuroengineering and brain–computer interface systems. 
+I am a Ph.D. student in HCI researching neuroengineering and brain–computer interface systems.  
 My research investigates medical AI and machine learning for neural signal modeling from a systems-oriented perspective.
 
 ## Research Interests
