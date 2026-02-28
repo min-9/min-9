@@ -1,51 +1,57 @@
-## Mingu
+## Introduction
 
-Neuroengineering & Brain–Computer Interface Researcher  
-Ph.D. Student in Human–Computer Interaction
+Ph.D. Student in Human–Computer Interaction (HCI), 
+working at the intersection of neuroengineering and brain–computer interface systems.
 
-B.S. in Computer Science, 2025  
-Ph.D. in HCI, 2026–Present  
+My research focuses on medical artificial intelligence, deep learning, and machine learning for neural signal modeling and BCI applications. I explore data-driven approaches to build adaptive, scalable, and human-centered interactive systems.
 
----
+With a background in frontend system architecture, I approach AI research from a systems perspective—bridging model development, interface engineering, and real-world deployment. I view software as an experimental platform for computational and human-centered inquiry.
 
-I research neural signal processing and brain–computer interfaces,
-focusing on how neural data can shape adaptive and scalable interactive systems.
 
-With a background in frontend system architecture,
-I approach interfaces as structured, performance-aware engineering systems.
+## Research Interests
 
-My interests include:
-- Neural signal–driven interaction
-- Neuroadaptive interface systems
-- Scalable UI architectures
-- Performance-aware rendering
-- Human-centered system design
+- Brain–computer interface systems  
+- Neural signal modeling  
+- Medical artificial intelligence  
+- Neuroadaptive interface architectures  
+- Scalable interactive systems  
+- Human-centered computational design
 
-I treat software not only as a product, but as an experimental research platform.
 
----
+## Education
 
-## Technical Foundations
+Ph.D. in Human–Computer Interaction (HCI)  
+Hanyang University (2026–Present)
 
-### Frontend Systems
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts&perline=4)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue)](https://skillicons.dev)
+B.S. in Computer Science  
+Hanseo University (2019–2025)
 
-### Interface & Styling
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwindcss)](https://skillicons.dev)
 
-### Data
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+## Technical Expertise
 
-### Tooling
-[![My Skills](https://skillicons.dev/icons?i=vscode,github)](https://skillicons.dev)
+### Machine Learning & Medical AI
+- Python
+- PyTorch, TensorFlow
+- Scikit-learn, NumPy
+- Model training and evaluation
 
----
+### Neuroengineering & BCI
+- Neural signal processing
+- Brain–computer interface systems
+- Neuroadaptive modeling
 
-[![Mingu's solved ac stats](https://solvedac-readme-stats.vercel.app/api?handle=mg07315)](https://github.com/kookjd7759/solvedac-readme-stats)
+### Interactive Systems
+- Frontend architecture (React, Next.js, Vue)
+- TypeScript-based development
+- Scalable UI design
 
----
+### Research Infrastructure
+- MySQL
+- Git, GitHub
+- Reproducible research workflows
+
 
 ## Contact
-<a href="https://www.instagram.com/min9.exe/"><img src="https://img.shields.io/badge/min9.exe-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:mg07315@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+Academic Correspondence: ixmin@hanyang.ac.kr  
+General Inquiries: mg07315@gmail.com
