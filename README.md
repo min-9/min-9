@@ -1,38 +1,52 @@
-## Introduction
+# Introduction
 
-I am a Ph.D. student in HCI researching neuroengineering and brain–computer interface systems.  
-My research investigates medical AI and machine learning for neural signal modeling from a systems-oriented perspective.
+HCI학과 석·박사 통합과정으로 입학한 강민구입니다.  
+현재 **Human-Centered AI**와 **Interactive Intelligent Systems** 분야에 관심을 가지고 연구 주제를 탐색하고 있습니다.
 
-## Research Interests
+특히 **인간의 행동, 맥락, 상호작용 패턴을 이해하는 머신러닝 방법론**을 통해  
+사용자 시스템과 경험(User Systems & Experiences)을 향상시키는 연구에 관심을 두고 있습니다.
 
-- Brain–computer interface systems  
-- Neural signal modeling  
-- Medical AI  
-- Neuroadaptive interface architectures  
-- Scalable interactive systems  
-- Human-centered computational design
+또한 인간과 지능형 기술 사이의 상호작용을 보다 **직관적이고 투명하며 신뢰할 수 있도록 만드는  
+적응형(Adaptive) 및 설명가능한(Explainable) AI 시스템**의 설계와 개발에 관심이 있습니다.
 
+---
 
-## Education
+# Research Interests
 
-Ph.D. in Human–Computer Interaction (In progress)  
-Hanyang University, 2026–Present
+- **Human-Centered Machine Learning**  
+- **Interactive AI for Human–Computer Interaction**  
+- **Multimodal User Modeling**  
+- **Explainable & Responsible AI**  
+- **Intelligent User Systems**
 
-B.S. in Computer Science  
-Hanseo University, 2019–2025
+---
 
+# Education
 
-## Technical Expertise
+**Human–Computer Interaction 석·박사 통합과정 (재학)**  
+한양대학교, 2026–현재  
 
-Machine Learning: Python, PyTorch, TensorFlow, Scikit-learn  
+**컴퓨터공학 학사**  
+한서대학교, 2019–2025  
 
-Neuroengineering: Neural signal processing, Brain–computer interface systems  
+---
 
-Systems & Frontend: React, Next.js, TypeScript  
+# Technical Skills
 
-Tools: Git, MySQL
+## Machine Learning
+- Python  
+- PyTorch  
+- TensorFlow  
+- Scikit-learn  
 
-## Contact
+## AI & Data Analysis
+- Machine Learning  
+- Data Analysis  
 
-Academic Correspondence: ixmin@hanyang.ac.kr  
-General Inquiries: mg07315@gmail.com
+## Software Development
+- TypeScript  
+- React  
+
+## Tools
+- Git  
+- MySQL
