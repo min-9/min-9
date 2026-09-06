@@ -1,7 +1,6 @@
 # Introduction
 
-HCI학과에서 석·박사 통합과정을 밟고 있는 강민구입니다.  
-현재 **Human-Centered AI**와 **Interactive Intelligent Systems** 분야에 관심을 가지고 연구 주제를 탐색하고 있습니다.
+**Human-Centered AI**와 **Interactive Intelligent Systems** 분야에 관심을 가지고 연구 주제를 탐색하고 있는 <b>강민구</b>입니다.
 
 특히 **인간의 행동, 맥락, 상호작용 패턴을 이해하는 머신러닝 방법론**을 통해  
 사용자 시스템과 경험(User Systems & Experiences)을 향상시키는 연구에 관심을 두고 있습니다.
@@ -23,7 +22,7 @@ HCI학과에서 석·박사 통합과정을 밟고 있는 강민구입니다.
 
 # Education
 
-**Human–Computer Interaction 석·박사 통합과정 (재학)**  
+**Human–Computer Interaction 석·박사 통합과정 (휴학)**  
 한양대학교, 2026–현재  
 
 **컴퓨터공학 학사**  
